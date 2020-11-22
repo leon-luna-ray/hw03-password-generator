@@ -16,4 +16,4 @@ Application will promt user for
 The application was working but I'm not sure if I didn't commit it or if I didn't save it but this is the most recent save I could find. I will have to redo the function and resubmit the assignment once I get it working again.
 
 
-![Application Screenshot]()
+![Application Screenshot](https://github.com/leon-luna-ray/hw03-password-generator/blob/main/assets/images/screencapture-leon-luna-ray-github-io-hw03-password-generator-2020-11-21-22_22_44.png)
